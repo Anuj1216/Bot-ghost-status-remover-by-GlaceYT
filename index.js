@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**Playing with Danger**","**Official Bot Of CSITAN**"];
+const statusMessages = ["Playing with Danger","Official Bot Of CSITAN"];
 
 
 let currentIndex = 0;
